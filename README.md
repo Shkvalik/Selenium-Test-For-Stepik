@@ -1,6 +1,6 @@
 # Task From Stepik
 
-###Condition:
+### Condition:
 1. The test in the repository can be run with the command pytest --language = es, the test passes successfully.
 2. Checking the functionality of the code for different languages. Add the command time.sleep (30) to the test file immediately after opening the link. Run the test with the --language = fr parameter and visually check that the phrase on the add to cart button looks like this: "Ajouter au panier".
 3. The browser must be declared in the browser fixture and passed to the test as a parameter.
